@@ -1,0 +1,844 @@
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\AutoMapper.Net4.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Cw.Ultracem.Service.dll.config
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Cw.Ultracem.Service.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Cw.Ultracem.Service.pdb
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Win32.Primitives.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\netstandard.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.AppContext.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Collections.Concurrent.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Collections.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Collections.NonGeneric.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Collections.Specialized.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.ComponentModel.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.ComponentModel.EventBasedAsync.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.ComponentModel.Primitives.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.ComponentModel.TypeConverter.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Console.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Data.Common.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Diagnostics.Contracts.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Diagnostics.Debug.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Diagnostics.FileVersionInfo.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Diagnostics.Process.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Diagnostics.StackTrace.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Diagnostics.TextWriterTraceListener.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Diagnostics.Tools.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Diagnostics.TraceSource.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Diagnostics.Tracing.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Drawing.Primitives.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Dynamic.Runtime.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Globalization.Calendars.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Globalization.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Globalization.Extensions.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.IO.Compression.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.IO.Compression.ZipFile.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.IO.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.IO.FileSystem.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.IO.FileSystem.DriveInfo.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.IO.FileSystem.Primitives.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.IO.FileSystem.Watcher.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.IO.IsolatedStorage.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.IO.MemoryMappedFiles.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.IO.Pipes.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.IO.UnmanagedMemoryStream.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Linq.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Linq.Expressions.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Linq.Parallel.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Linq.Queryable.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Net.Http.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Net.NameResolution.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Net.NetworkInformation.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Net.Ping.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Net.Primitives.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Net.Requests.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Net.Security.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Net.Sockets.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Net.WebHeaderCollection.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Net.WebSockets.Client.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Net.WebSockets.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.ObjectModel.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Reflection.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Reflection.Extensions.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Reflection.Primitives.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Resources.Reader.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Resources.ResourceManager.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Resources.Writer.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Runtime.CompilerServices.VisualC.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Runtime.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Runtime.Extensions.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Runtime.Handles.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Runtime.InteropServices.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Runtime.Numerics.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Runtime.Serialization.Formatters.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Runtime.Serialization.Json.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Runtime.Serialization.Primitives.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Runtime.Serialization.Xml.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Security.Claims.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Security.Cryptography.Algorithms.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Security.Cryptography.Csp.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Security.Cryptography.Encoding.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Security.Cryptography.Primitives.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Security.Cryptography.X509Certificates.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Security.Principal.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Security.SecureString.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Text.Encoding.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Text.Encoding.Extensions.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Text.RegularExpressions.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Threading.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Threading.Overlapped.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Threading.Tasks.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Threading.Tasks.Parallel.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Threading.Thread.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Threading.ThreadPool.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Threading.Timer.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Xml.ReaderWriter.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Xml.XDocument.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Xml.XmlDocument.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Xml.XmlSerializer.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Xml.XPath.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Xml.XPath.XDocument.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\AutoMapper.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Cw.Ultracem.BL.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Cw.Ultracem.DTO.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\EntityFramework.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\EntityFramework.SqlServer.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Bcl.HashCode.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Data.SqlClient.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.EntityFrameworkCore.Design.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.EntityFrameworkCore.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Caching.Memory.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Configuration.Binder.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Configuration.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Configuration.Json.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Logging.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Options.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Primitives.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Identity.Client.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Buffers.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Collections.Immutable.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.ComponentModel.Annotations.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Memory.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Numerics.Vectors.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.ServiceModel.Http.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.ServiceModel.Primitives.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Text.Encodings.Web.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Text.Json.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Threading.Tasks.Extensions.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.ValueTuple.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Cw.Ultracem.ConsumoERP.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Cw.Ultracem.Data.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Cw.Ultracem.BL.pdb
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Cw.Ultracem.DTO.pdb
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\AutoMapper.xml
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\EntityFramework.xml
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\EntityFramework.SqlServer.xml
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Bcl.HashCode.xml
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Data.SqlClient.pdb
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.EntityFrameworkCore.xml
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.EntityFrameworkCore.Design.xml
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.EntityFrameworkCore.Relational.xml
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.EntityFrameworkCore.SqlServer.xml
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Caching.Abstractions.xml
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Caching.Memory.xml
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Configuration.xml
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Configuration.Binder.xml
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Configuration.FileExtensions.xml
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Configuration.Json.xml
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.FileProviders.Physical.xml
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.FileSystemGlobbing.xml
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Logging.xml
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Options.xml
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Primitives.xml
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Identity.Client.xml
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Buffers.xml
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Collections.Immutable.xml
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Memory.xml
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Numerics.Vectors.xml
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Text.Encodings.Web.xml
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Text.Json.xml
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Threading.Tasks.Extensions.xml
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.ValueTuple.xml
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Cw.Ultracem.ConsumoERP.pdb
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Cw.Ultracem.ConsumoERP.dll.config
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Cw.Ultracem.Data.pdb
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Cw.Ultracem.Data.dll.config
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\de\Microsoft.Data.SqlClient.resources.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\es\Microsoft.Data.SqlClient.resources.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\it\Microsoft.Data.SqlClient.resources.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\obj\Debug\Cw.Ultracem.Service.csprojAssemblyReference.cache
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\obj\Debug\Cw.Ultracem.Service.dll.config
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\obj\Debug\Cw.Ultracem.Service.csproj.CoreCompileInputs.cache
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\obj\Debug\Cw.Ultracem.Service.csproj.CopyComplete
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\obj\Debug\Cw.Ultracem.Service.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Service\obj\Debug\Cw.Ultracem.Service.pdb
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\AutoMapper.Net4.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Cw.Ultracem.Service.dll.config
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Cw.Ultracem.Service.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Cw.Ultracem.Service.pdb
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Win32.Primitives.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\netstandard.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.AppContext.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Collections.Concurrent.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Collections.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Collections.NonGeneric.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Collections.Specialized.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.ComponentModel.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.ComponentModel.Primitives.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Console.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Data.Common.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Diagnostics.Contracts.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Diagnostics.Debug.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Diagnostics.Process.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Diagnostics.StackTrace.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Diagnostics.Tools.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Diagnostics.TraceSource.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Diagnostics.Tracing.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Drawing.Primitives.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Dynamic.Runtime.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Globalization.Calendars.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Globalization.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Globalization.Extensions.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.IO.Compression.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.IO.Compression.ZipFile.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.IO.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.IO.FileSystem.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.IO.IsolatedStorage.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.IO.Pipes.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Linq.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Linq.Expressions.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Linq.Parallel.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Linq.Queryable.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Net.Http.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Net.NameResolution.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Net.NetworkInformation.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Net.Ping.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Net.Primitives.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Net.Requests.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Net.Security.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Net.Sockets.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Net.WebHeaderCollection.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Net.WebSockets.Client.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Net.WebSockets.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.ObjectModel.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Reflection.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Reflection.Extensions.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Reflection.Primitives.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Resources.Reader.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Resources.ResourceManager.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Resources.Writer.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Runtime.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Runtime.Extensions.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Runtime.Handles.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Runtime.InteropServices.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Runtime.Numerics.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Runtime.Serialization.Json.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Security.Claims.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Security.Cryptography.Csp.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Security.Principal.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Security.SecureString.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Text.Encoding.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Text.Encoding.Extensions.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Text.RegularExpressions.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Threading.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Threading.Overlapped.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Threading.Tasks.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Threading.Thread.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Threading.ThreadPool.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Threading.Timer.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Xml.ReaderWriter.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Xml.XDocument.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Xml.XmlDocument.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Xml.XmlSerializer.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Xml.XPath.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Xml.XPath.XDocument.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\AutoMapper.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Cw.Ultracem.BL.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Cw.Ultracem.DTO.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\EntityFramework.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\EntityFramework.SqlServer.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Data.SqlClient.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.EntityFrameworkCore.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Logging.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Options.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Identity.Client.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Buffers.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Collections.Immutable.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.ComponentModel.Annotations.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Memory.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Numerics.Vectors.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.ServiceModel.Http.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.ServiceModel.Primitives.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Text.Encodings.Web.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Text.Json.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.ValueTuple.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Cw.Ultracem.ConsumoERP.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Cw.Ultracem.Data.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Cw.Ultracem.BL.pdb
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Cw.Ultracem.DTO.pdb
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\AutoMapper.xml
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\EntityFramework.xml
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\EntityFramework.SqlServer.xml
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Data.SqlClient.pdb
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.EntityFrameworkCore.xml
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Logging.xml
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Options.xml
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Identity.Client.xml
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Buffers.xml
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Collections.Immutable.xml
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Memory.xml
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Numerics.Vectors.xml
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Text.Encodings.Web.xml
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Text.Json.xml
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.ValueTuple.xml
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Cw.Ultracem.ConsumoERP.pdb
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Cw.Ultracem.ConsumoERP.dll.config
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Cw.Ultracem.Data.pdb
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Cw.Ultracem.Data.dll.config
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\obj\Debug\Cw.Ultracem.Service.csprojAssemblyReference.cache
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\obj\Debug\Cw.Ultracem.Service.dll.config
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\obj\Debug\Cw.Ultracem.Service.csproj.CoreCompileInputs.cache
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\obj\Debug\Cw.Ultracem.Service.csproj.CopyComplete
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\obj\Debug\Cw.Ultracem.Service.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\obj\Debug\Cw.Ultracem.Service.pdb
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\AutoMapper.Net4.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Cw.Ultracem.Service.dll.config
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Cw.Ultracem.Service.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Cw.Ultracem.Service.pdb
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\AutoMapper.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Cw.Ultracem.BL.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Cw.Ultracem.DTO.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\EntityFramework.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\EntityFramework.SqlServer.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Bcl.AsyncInterfaces.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Bcl.HashCode.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Data.SqlClient.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.EntityFrameworkCore.Design.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.EntityFrameworkCore.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.EntityFrameworkCore.Relational.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Caching.Abstractions.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Caching.Memory.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Configuration.Binder.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Configuration.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Configuration.Json.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.DependencyInjection.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.FileProviders.Physical.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Logging.Abstractions.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Logging.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Options.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Primitives.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Identity.Client.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Buffers.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Collections.Immutable.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.ComponentModel.Annotations.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Diagnostics.DiagnosticSource.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Memory.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Numerics.Vectors.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.ServiceModel.Http.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.ServiceModel.Primitives.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Text.Encodings.Web.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Text.Json.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Threading.Tasks.Extensions.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.ValueTuple.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Cw.Ultracem.ConsumoERP.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Cw.Ultracem.Data.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Cw.Ultracem.BL.pdb
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Cw.Ultracem.DTO.pdb
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\AutoMapper.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\EntityFramework.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\EntityFramework.SqlServer.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Bcl.AsyncInterfaces.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Bcl.HashCode.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Data.SqlClient.pdb
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.EntityFrameworkCore.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.EntityFrameworkCore.Design.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.EntityFrameworkCore.Relational.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.EntityFrameworkCore.SqlServer.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Caching.Abstractions.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Caching.Memory.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Configuration.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Configuration.Binder.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Configuration.FileExtensions.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Configuration.Json.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.DependencyInjection.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.FileProviders.Physical.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.FileSystemGlobbing.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Logging.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Logging.Abstractions.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Options.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Primitives.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Identity.Client.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Buffers.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Collections.Immutable.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Diagnostics.DiagnosticSource.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Memory.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Numerics.Vectors.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Text.Encodings.Web.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Text.Json.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Threading.Tasks.Extensions.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.ValueTuple.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Cw.Ultracem.ConsumoERP.pdb
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Cw.Ultracem.ConsumoERP.dll.config
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Cw.Ultracem.Data.pdb
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Cw.Ultracem.Data.dll.config
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\de\Microsoft.Data.SqlClient.resources.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\es\Microsoft.Data.SqlClient.resources.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\fr\Microsoft.Data.SqlClient.resources.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\it\Microsoft.Data.SqlClient.resources.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\ja\Microsoft.Data.SqlClient.resources.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\ko\Microsoft.Data.SqlClient.resources.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\ru\Microsoft.Data.SqlClient.resources.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\obj\Debug\Cw.Ultracem.Service.csprojAssemblyReference.cache
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\obj\Debug\Cw.Ultracem.Service.dll.config
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\obj\Debug\Cw.Ultracem.Service.csproj.CoreCompileInputs.cache
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\obj\Debug\Cw.Ultracem.Service.csproj.CopyComplete
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\obj\Debug\Cw.Ultracem.Service.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Service\obj\Debug\Cw.Ultracem.Service.pdb
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.Service\obj\Debug\Cw.Ultracem.Service.csprojAssemblyReference.cache
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.Service\obj\Debug\Cw.Ultracem.Service.dll.config
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.Service\obj\Debug\Cw.Ultracem.Service.csproj.CoreCompileInputs.cache
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.Service\obj\Debug\Cw.Ultracem.Service.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.Service\obj\Debug\Cw.Ultracem.Service.pdb
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\AutoMapper.Net4.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Cw.Ultracem.Service.dll.config
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Cw.Ultracem.Service.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Cw.Ultracem.Service.pdb
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\AutoMapper.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Cw.Ultracem.BL.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Cw.Ultracem.DTO.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\EntityFramework.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\EntityFramework.SqlServer.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Bcl.AsyncInterfaces.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Bcl.HashCode.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Data.SqlClient.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.EntityFrameworkCore.Design.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.EntityFrameworkCore.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.EntityFrameworkCore.Relational.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Caching.Abstractions.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Caching.Memory.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Configuration.Binder.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Configuration.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Configuration.Json.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.DependencyInjection.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.FileProviders.Physical.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Logging.Abstractions.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Logging.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Options.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Primitives.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Identity.Client.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Buffers.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Collections.Immutable.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.ComponentModel.Annotations.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Diagnostics.DiagnosticSource.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Memory.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Numerics.Vectors.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.ServiceModel.Http.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.ServiceModel.Primitives.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Text.Encodings.Web.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Text.Json.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Threading.Tasks.Extensions.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.ValueTuple.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Cw.Ultracem.ConsumoERP.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Cw.Ultracem.Data.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Cw.Ultracem.BL.pdb
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Cw.Ultracem.DTO.pdb
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\AutoMapper.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\EntityFramework.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\EntityFramework.SqlServer.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Bcl.AsyncInterfaces.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Bcl.HashCode.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Data.SqlClient.pdb
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.EntityFrameworkCore.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.EntityFrameworkCore.Design.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.EntityFrameworkCore.Relational.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.EntityFrameworkCore.SqlServer.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Caching.Abstractions.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Caching.Memory.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Configuration.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Configuration.Binder.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Configuration.FileExtensions.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Configuration.Json.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.DependencyInjection.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.FileProviders.Physical.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.FileSystemGlobbing.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Logging.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Logging.Abstractions.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Options.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Primitives.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Identity.Client.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Buffers.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Collections.Immutable.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Diagnostics.DiagnosticSource.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Memory.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Numerics.Vectors.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Text.Encodings.Web.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Text.Json.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Threading.Tasks.Extensions.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.ValueTuple.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Cw.Ultracem.ConsumoERP.pdb
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Cw.Ultracem.ConsumoERP.dll.config
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Cw.Ultracem.Data.pdb
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Cw.Ultracem.Data.dll.config
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\de\Microsoft.Data.SqlClient.resources.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\es\Microsoft.Data.SqlClient.resources.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\fr\Microsoft.Data.SqlClient.resources.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\it\Microsoft.Data.SqlClient.resources.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\ja\Microsoft.Data.SqlClient.resources.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\ko\Microsoft.Data.SqlClient.resources.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\ru\Microsoft.Data.SqlClient.resources.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.Service\obj\Debug\Cw.Ultracem.Service.csproj.CopyComplete
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v4\Cw.Ultracem.Service\Cw.Ultracem.Service\obj\Debug\Cw.Ultracem.Service.csprojAssemblyReference.cache
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v4\Cw.Ultracem.Service\Cw.Ultracem.Service\obj\Debug\Cw.Ultracem.Service.dll.config
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v4\Cw.Ultracem.Service\Cw.Ultracem.Service\obj\Debug\Cw.Ultracem.Service.csproj.CoreCompileInputs.cache
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v4\Cw.Ultracem.Service\Cw.Ultracem.Service\obj\Debug\Cw.Ultracem.Service.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v4\Cw.Ultracem.Service\Cw.Ultracem.Service\obj\Debug\Cw.Ultracem.Service.pdb
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v4\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\AutoMapper.Net4.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v4\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Cw.Ultracem.Service.dll.config
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v4\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Cw.Ultracem.Service.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v4\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Cw.Ultracem.Service.pdb
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v4\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\AutoMapper.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v4\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Cw.Ultracem.BL.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v4\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Cw.Ultracem.DTO.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v4\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\EntityFramework.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v4\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\EntityFramework.SqlServer.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v4\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Bcl.AsyncInterfaces.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v4\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Bcl.HashCode.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v4\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Data.SqlClient.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v4\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v4\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.EntityFrameworkCore.Design.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v4\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.EntityFrameworkCore.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v4\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.EntityFrameworkCore.Relational.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v4\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v4\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Caching.Abstractions.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v4\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Caching.Memory.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v4\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v4\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Configuration.Binder.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v4\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Configuration.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v4\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v4\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Configuration.Json.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v4\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v4\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.DependencyInjection.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v4\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v4\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.FileProviders.Physical.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v4\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v4\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Logging.Abstractions.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v4\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Logging.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v4\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Options.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v4\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Primitives.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v4\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Identity.Client.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v4\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Buffers.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v4\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Collections.Immutable.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v4\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.ComponentModel.Annotations.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v4\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Diagnostics.DiagnosticSource.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v4\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Memory.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v4\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Numerics.Vectors.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v4\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v4\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.ServiceModel.Http.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v4\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.ServiceModel.Primitives.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v4\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Text.Encodings.Web.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v4\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Text.Json.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v4\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Threading.Tasks.Extensions.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v4\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.ValueTuple.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v4\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Cw.Ultracem.ConsumoERP.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v4\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Cw.Ultracem.Data.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v4\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Cw.Ultracem.BL.pdb
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v4\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Cw.Ultracem.DTO.pdb
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v4\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\AutoMapper.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v4\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\EntityFramework.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v4\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\EntityFramework.SqlServer.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v4\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Bcl.AsyncInterfaces.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v4\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Bcl.HashCode.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v4\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Data.SqlClient.pdb
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v4\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.EntityFrameworkCore.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v4\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v4\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.EntityFrameworkCore.Design.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v4\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.EntityFrameworkCore.Relational.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v4\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.EntityFrameworkCore.SqlServer.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v4\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Caching.Abstractions.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v4\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Caching.Memory.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v4\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Configuration.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v4\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v4\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Configuration.Binder.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v4\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Configuration.FileExtensions.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v4\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Configuration.Json.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v4\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.DependencyInjection.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v4\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v4\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v4\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.FileProviders.Physical.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v4\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.FileSystemGlobbing.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v4\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Logging.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v4\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Logging.Abstractions.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v4\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Options.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v4\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Primitives.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v4\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Identity.Client.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v4\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Buffers.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v4\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Collections.Immutable.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v4\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Diagnostics.DiagnosticSource.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v4\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Memory.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v4\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Numerics.Vectors.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v4\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v4\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Text.Encodings.Web.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v4\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Text.Json.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v4\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Threading.Tasks.Extensions.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v4\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.ValueTuple.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v4\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Cw.Ultracem.ConsumoERP.pdb
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v4\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Cw.Ultracem.ConsumoERP.dll.config
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v4\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Cw.Ultracem.Data.pdb
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v4\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Cw.Ultracem.Data.dll.config
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v4\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\de\Microsoft.Data.SqlClient.resources.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v4\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\es\Microsoft.Data.SqlClient.resources.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v4\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\fr\Microsoft.Data.SqlClient.resources.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v4\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\it\Microsoft.Data.SqlClient.resources.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v4\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\ja\Microsoft.Data.SqlClient.resources.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v4\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\ko\Microsoft.Data.SqlClient.resources.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v4\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v4\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\ru\Microsoft.Data.SqlClient.resources.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v4\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v4\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v4\Cw.Ultracem.Service\Cw.Ultracem.Service\obj\Debug\Cw.Ultracem.Service.csproj.CopyComplete
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.Service\obj\Debug\Cw.Ultracem.Service.csprojAssemblyReference.cache
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.Service\obj\Debug\Cw.Ultracem.Service.dll.config
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.Service\obj\Debug\Cw.Ultracem.Service.csproj.CoreCompileInputs.cache
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.Service\obj\Debug\Cw.Ultracem.Service.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.Service\obj\Debug\Cw.Ultracem.Service.pdb
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\AutoMapper.Net4.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Cw.Ultracem.Service.dll.config
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Cw.Ultracem.Service.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Cw.Ultracem.Service.pdb
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\AutoMapper.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Cw.Ultracem.BL.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Cw.Ultracem.DTO.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\EntityFramework.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\EntityFramework.SqlServer.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Bcl.AsyncInterfaces.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Bcl.HashCode.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Data.SqlClient.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.EntityFrameworkCore.Design.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.EntityFrameworkCore.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.EntityFrameworkCore.Relational.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Caching.Abstractions.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Caching.Memory.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Configuration.Binder.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Configuration.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Configuration.Json.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.DependencyInjection.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.FileProviders.Physical.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Logging.Abstractions.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Logging.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Options.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Primitives.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Identity.Client.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Buffers.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Collections.Immutable.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.ComponentModel.Annotations.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Diagnostics.DiagnosticSource.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Memory.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Numerics.Vectors.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.ServiceModel.Http.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.ServiceModel.Primitives.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Text.Encodings.Web.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Text.Json.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Threading.Tasks.Extensions.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.ValueTuple.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Cw.Ultracem.ConsumoERP.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Cw.Ultracem.Data.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Cw.Ultracem.BL.pdb
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Cw.Ultracem.DTO.pdb
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\AutoMapper.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\EntityFramework.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\EntityFramework.SqlServer.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Bcl.AsyncInterfaces.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Bcl.HashCode.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Data.SqlClient.pdb
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.EntityFrameworkCore.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.EntityFrameworkCore.Design.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.EntityFrameworkCore.Relational.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.EntityFrameworkCore.SqlServer.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Caching.Abstractions.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Caching.Memory.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Configuration.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Configuration.Binder.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Configuration.FileExtensions.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Configuration.Json.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.DependencyInjection.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.FileProviders.Physical.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.FileSystemGlobbing.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Logging.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Logging.Abstractions.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Options.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Extensions.Primitives.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Microsoft.Identity.Client.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Buffers.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Collections.Immutable.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Diagnostics.DiagnosticSource.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Memory.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Numerics.Vectors.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Text.Encodings.Web.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Text.Json.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.Threading.Tasks.Extensions.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\System.ValueTuple.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Cw.Ultracem.ConsumoERP.pdb
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Cw.Ultracem.ConsumoERP.dll.config
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Cw.Ultracem.Data.pdb
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\Cw.Ultracem.Data.dll.config
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\de\Microsoft.Data.SqlClient.resources.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\es\Microsoft.Data.SqlClient.resources.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\fr\Microsoft.Data.SqlClient.resources.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\it\Microsoft.Data.SqlClient.resources.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\ja\Microsoft.Data.SqlClient.resources.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\ko\Microsoft.Data.SqlClient.resources.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\ru\Microsoft.Data.SqlClient.resources.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.Service\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.Service\obj\Debug\Cw.Ultracem.Service.csproj.CopyComplete

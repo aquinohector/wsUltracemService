@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ConfiguracionImportar xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Banco>BANCO DE OCCIDENTE</Banco>
+  <CuentaBanco>11100501</CuentaBanco>
+  <CuentaAnticipo>28050506</CuentaAnticipo>
+  <CuentaCartera>13050501</CuentaCartera>
+  <TipoDocumento>RCW</TipoDocumento>
+  <Compania>1</Compania>
+  <CentroOperacion>001</CentroOperacion>
+  <UnidadNegocio>99</UnidadNegocio>
+  <ConceptoFlujo>1120102</ConceptoFlujo>
+  <Moneda>COP</Moneda>
+  <CodigoCaja>001</CodigoCaja>
+  <CodigoCobrador>8888</CodigoCobrador>
+  <CentroCostoRC></CentroCostoRC>
+  <ValidaMedioPago>0</ValidaMedioPago>
+  <CodigoMedioPagoCaja>CI3</CodigoMedioPagoCaja>
+  <CentroCostoCaja></CentroCostoCaja>
+  <CuentaConsignacion></CuentaConsignacion>
+</ConfiguracionImportar>

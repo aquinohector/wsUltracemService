@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ConfiguracionReversar xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Sender>digitalizacion@ultracem.co</Sender>
+  <To>hmaza@ultracem.co</To>
+  <Asunto>Prueba Reversión de Recaudo Banco Occidente</Asunto>
+  <ClaveUsuario>Cdbqlveqlg#2016</ClaveUsuario>
+  <SmtpClient>smtp.office365.com</SmtpClient>
+  <Usuario>digitalizacion@ultracem.co</Usuario>
+  <Puerto>587</Puerto>
+</ConfiguracionReversar>

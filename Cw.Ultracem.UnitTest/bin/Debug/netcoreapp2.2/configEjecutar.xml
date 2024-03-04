@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ConfiguracionEjecutar xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Nombreconexion>UnoEE_Pruebas</Nombreconexion>
+  <Compania>1</Compania>
+  <Usuario>usr_consware</Usuario>
+  <ClaveUsuario>Consware#2020</ClaveUsuario>
+  <Nit>890115406</Nit>
+</ConfiguracionEjecutar>

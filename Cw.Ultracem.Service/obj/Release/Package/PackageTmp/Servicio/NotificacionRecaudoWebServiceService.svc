@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="Cw.Ultracem.Service.Servicio.NotificacionRecaudoWebServiceService" CodeBehind="NotificacionRecaudoWebServiceService.svc.cs" %>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="logConswareModelStoreContainer" CdmEntityContainer="UltracemDB">
+    <EntitySetMapping Name="BancosWS">
+      <EntityTypeMapping TypeName="logConswareModel.BancosWS">
+        <MappingFragment StoreEntitySet="BancosWS">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="NombreBanco" ColumnName="NombreBanco" />
+          <ScalarProperty Name="Estado" ColumnName="Estado" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="LogBancoSiesa">
+      <EntityTypeMapping TypeName="logConswareModel.LogBancoSiesa">
+        <MappingFragment StoreEntitySet="LogBancoSiesa">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="TipoConsulta" ColumnName="TipoConsulta" />
+          <ScalarProperty Name="XmlBanco" ColumnName="XmlBanco" />
+          <ScalarProperty Name="XmlSiesa" ColumnName="XmlSiesa" />
+          <ScalarProperty Name="Resultado" ColumnName="Resultado" />
+          <ScalarProperty Name="FechaConsumo" ColumnName="FechaConsumo" />
+          <ScalarProperty Name="NumeroAutorizacion" ColumnName="NumeroAutorizacion" />
+          <ScalarProperty Name="Referencia1" ColumnName="Referencia1" />
+          <ScalarProperty Name="Referencia2" ColumnName="Referencia2" />
+          <ScalarProperty Name="TotalTransaccion" ColumnName="TotalTransaccion" />
+          <ScalarProperty Name="IdBanco" ColumnName="IdBanco" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

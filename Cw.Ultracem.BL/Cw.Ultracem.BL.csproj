@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="EntityFramework" Version="6.4.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Cw.Ultracem.ConsumoERP\Cw.Ultracem.ConsumoERP.csproj" />
+    <ProjectReference Include="..\Cw.Ultracem.Data\Cw.Ultracem.Data.csproj" />
+    <ProjectReference Include="..\Cw.Ultracem.DTO\Cw.Ultracem.DTO.csproj" />
+  </ItemGroup>
+
+</Project>

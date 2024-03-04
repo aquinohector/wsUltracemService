@@ -1,0 +1,60 @@
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.BL\bin\Debug\netstandard2.0\Cw.Ultracem.BL.deps.json
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.BL\bin\Debug\netstandard2.0\Cw.Ultracem.BL.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.BL\bin\Debug\netstandard2.0\Cw.Ultracem.BL.pdb
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.BL\bin\Debug\netstandard2.0\Cw.Ultracem.ConsumoERP.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.BL\bin\Debug\netstandard2.0\Cw.Ultracem.Data.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.BL\bin\Debug\netstandard2.0\Cw.Ultracem.DTO.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.BL\bin\Debug\netstandard2.0\EntityFramework.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.BL\bin\Debug\netstandard2.0\Cw.Ultracem.ConsumoERP.pdb
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.BL\bin\Debug\netstandard2.0\Cw.Ultracem.ConsumoERP.dll.config
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.BL\bin\Debug\netstandard2.0\Cw.Ultracem.Data.pdb
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.BL\bin\Debug\netstandard2.0\Cw.Ultracem.Data.dll.config
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.BL\bin\Debug\netstandard2.0\Cw.Ultracem.DTO.pdb
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.BL\bin\Debug\netstandard2.0\EntityFramework.xml
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.BL\obj\Debug\netstandard2.0\Cw.Ultracem.BL.csprojAssemblyReference.cache
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.BL\obj\Debug\netstandard2.0\Cw.Ultracem.BL.csproj.CoreCompileInputs.cache
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.BL\obj\Debug\netstandard2.0\Cw.Ultracem.BL.AssemblyInfoInputs.cache
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.BL\obj\Debug\netstandard2.0\Cw.Ultracem.BL.AssemblyInfo.cs
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.BL\obj\Debug\netstandard2.0\Cw.Ultracem.BL.csproj.CopyComplete
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.BL\obj\Debug\netstandard2.0\Cw.Ultracem.BL.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.BL\obj\Debug\netstandard2.0\Cw.Ultracem.BL.pdb
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.BL\bin\Debug\netstandard2.0\Cw.Ultracem.BL.deps.json
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.BL\bin\Debug\netstandard2.0\Cw.Ultracem.BL.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.BL\bin\Debug\netstandard2.0\Cw.Ultracem.BL.pdb
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.BL\bin\Debug\netstandard2.0\Cw.Ultracem.ConsumoERP.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.BL\bin\Debug\netstandard2.0\Cw.Ultracem.Data.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.BL\bin\Debug\netstandard2.0\Cw.Ultracem.DTO.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.BL\bin\Debug\netstandard2.0\EntityFramework.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.BL\bin\Debug\netstandard2.0\Cw.Ultracem.ConsumoERP.pdb
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.BL\bin\Debug\netstandard2.0\Cw.Ultracem.ConsumoERP.dll.config
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.BL\bin\Debug\netstandard2.0\Cw.Ultracem.Data.pdb
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.BL\bin\Debug\netstandard2.0\Cw.Ultracem.Data.dll.config
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.BL\bin\Debug\netstandard2.0\Cw.Ultracem.DTO.pdb
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.BL\bin\Debug\netstandard2.0\EntityFramework.xml
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.BL\obj\Debug\netstandard2.0\Cw.Ultracem.BL.csprojAssemblyReference.cache
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.BL\obj\Debug\netstandard2.0\Cw.Ultracem.BL.AssemblyInfoInputs.cache
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.BL\obj\Debug\netstandard2.0\Cw.Ultracem.BL.AssemblyInfo.cs
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.BL\obj\Debug\netstandard2.0\Cw.Ultracem.BL.csproj.CoreCompileInputs.cache
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.BL\obj\Debug\netstandard2.0\Cw.Ultracem.BL.csproj.CopyComplete
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.BL\obj\Debug\netstandard2.0\Cw.Ultracem.BL.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.BL\obj\Debug\netstandard2.0\Cw.Ultracem.BL.pdb
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.BL\bin\Debug\netstandard2.0\Cw.Ultracem.BL.deps.json
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.BL\bin\Debug\netstandard2.0\Cw.Ultracem.BL.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.BL\bin\Debug\netstandard2.0\Cw.Ultracem.BL.pdb
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.BL\bin\Debug\netstandard2.0\Cw.Ultracem.ConsumoERP.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.BL\bin\Debug\netstandard2.0\Cw.Ultracem.Data.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.BL\bin\Debug\netstandard2.0\Cw.Ultracem.DTO.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.BL\bin\Debug\netstandard2.0\EntityFramework.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.BL\bin\Debug\netstandard2.0\Cw.Ultracem.ConsumoERP.pdb
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.BL\bin\Debug\netstandard2.0\Cw.Ultracem.ConsumoERP.dll.config
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.BL\bin\Debug\netstandard2.0\Cw.Ultracem.Data.pdb
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.BL\bin\Debug\netstandard2.0\Cw.Ultracem.Data.dll.config
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.BL\bin\Debug\netstandard2.0\Cw.Ultracem.DTO.pdb
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.BL\bin\Debug\netstandard2.0\EntityFramework.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.BL\obj\Debug\netstandard2.0\Cw.Ultracem.BL.csprojAssemblyReference.cache
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.BL\obj\Debug\netstandard2.0\Cw.Ultracem.BL.AssemblyInfoInputs.cache
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.BL\obj\Debug\netstandard2.0\Cw.Ultracem.BL.AssemblyInfo.cs
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.BL\obj\Debug\netstandard2.0\Cw.Ultracem.BL.csproj.CoreCompileInputs.cache
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.BL\obj\Debug\netstandard2.0\Cw.Ultracem.BL.csproj.CopyComplete
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.BL\obj\Debug\netstandard2.0\Cw.Ultracem.BL.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.BL\obj\Debug\netstandard2.0\Cw.Ultracem.BL.pdb

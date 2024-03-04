@@ -1,0 +1,7 @@
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.ConsumoERP\bin\Release\Cw.Ultracem.ConsumoERP.dll.config
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.ConsumoERP\bin\Release\Cw.Ultracem.ConsumoERP.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.ConsumoERP\bin\Release\Cw.Ultracem.ConsumoERP.pdb
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.ConsumoERP\obj\Release\Cw.Ultracem.ConsumoERP.csprojAssemblyReference.cache
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.ConsumoERP\obj\Release\Cw.Ultracem.ConsumoERP.csproj.CoreCompileInputs.cache
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.ConsumoERP\obj\Release\Cw.Ultracem.ConsumoERP.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.ConsumoERP\obj\Release\Cw.Ultracem.ConsumoERP.pdb

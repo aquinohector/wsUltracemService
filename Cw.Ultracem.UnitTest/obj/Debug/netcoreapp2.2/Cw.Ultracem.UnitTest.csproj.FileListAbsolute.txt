@@ -1,0 +1,139 @@
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\bin\Debug\netcoreapp2.2\Cw.Ultracem.UnitTest.deps.json
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\bin\Debug\netcoreapp2.2\Cw.Ultracem.UnitTest.runtimeconfig.json
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\bin\Debug\netcoreapp2.2\Cw.Ultracem.UnitTest.runtimeconfig.dev.json
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\bin\Debug\netcoreapp2.2\Cw.Ultracem.UnitTest.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\bin\Debug\netcoreapp2.2\Cw.Ultracem.UnitTest.pdb
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\bin\Debug\netcoreapp2.2\Cw.Ultracem.BL.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\bin\Debug\netcoreapp2.2\Cw.Ultracem.ConsumoERP.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\bin\Debug\netcoreapp2.2\Cw.Ultracem.Data.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\bin\Debug\netcoreapp2.2\Cw.Ultracem.DTO.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\bin\Debug\netcoreapp2.2\EntityFramework.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\bin\Debug\netcoreapp2.2\Cw.Ultracem.BL.pdb
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\bin\Debug\netcoreapp2.2\Cw.Ultracem.DTO.pdb
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\bin\Debug\netcoreapp2.2\Cw.Ultracem.ConsumoERP.pdb
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\bin\Debug\netcoreapp2.2\Cw.Ultracem.ConsumoERP.dll.config
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\bin\Debug\netcoreapp2.2\Cw.Ultracem.Data.pdb
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\bin\Debug\netcoreapp2.2\Cw.Ultracem.Data.dll.config
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\bin\Debug\netcoreapp2.2\EntityFramework.xml
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\obj\Debug\netcoreapp2.2\Cw.Ultracem.UnitTest.csprojAssemblyReference.cache
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\obj\Debug\netcoreapp2.2\Cw.Ultracem.UnitTest.csproj.CoreCompileInputs.cache
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\obj\Debug\netcoreapp2.2\Cw.Ultracem.UnitTest.AssemblyInfoInputs.cache
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\obj\Debug\netcoreapp2.2\Cw.Ultracem.UnitTest.AssemblyInfo.cs
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\obj\Debug\netcoreapp2.2\Cw.Ultracem.UnitTest.csproj.CopyComplete
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\obj\Debug\netcoreapp2.2\Cw.Ultracem.UnitTest.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\obj\Debug\netcoreapp2.2\Cw.Ultracem.UnitTest.pdb
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\bin\Debug\netcoreapp2.2\Cw.Ultracem.UnitTest.deps.json
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\bin\Debug\netcoreapp2.2\Cw.Ultracem.UnitTest.runtimeconfig.json
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\bin\Debug\netcoreapp2.2\Cw.Ultracem.UnitTest.runtimeconfig.dev.json
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\bin\Debug\netcoreapp2.2\Cw.Ultracem.UnitTest.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\bin\Debug\netcoreapp2.2\Cw.Ultracem.UnitTest.pdb
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\bin\Debug\netcoreapp2.2\Cw.Ultracem.BL.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\bin\Debug\netcoreapp2.2\Cw.Ultracem.ConsumoERP.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\bin\Debug\netcoreapp2.2\Cw.Ultracem.Data.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\bin\Debug\netcoreapp2.2\Cw.Ultracem.DTO.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\bin\Debug\netcoreapp2.2\EntityFramework.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\bin\Debug\netcoreapp2.2\Cw.Ultracem.BL.pdb
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\bin\Debug\netcoreapp2.2\Cw.Ultracem.DTO.pdb
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\bin\Debug\netcoreapp2.2\Cw.Ultracem.ConsumoERP.pdb
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\bin\Debug\netcoreapp2.2\Cw.Ultracem.ConsumoERP.dll.config
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\bin\Debug\netcoreapp2.2\Cw.Ultracem.Data.pdb
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\bin\Debug\netcoreapp2.2\Cw.Ultracem.Data.dll.config
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\bin\Debug\netcoreapp2.2\EntityFramework.xml
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\obj\Debug\netcoreapp2.2\Cw.Ultracem.UnitTest.csprojAssemblyReference.cache
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\obj\Debug\netcoreapp2.2\Cw.Ultracem.UnitTest.AssemblyInfoInputs.cache
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\obj\Debug\netcoreapp2.2\Cw.Ultracem.UnitTest.AssemblyInfo.cs
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\obj\Debug\netcoreapp2.2\Cw.Ultracem.UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\obj\Debug\netcoreapp2.2\Cw.Ultracem.UnitTest.csproj.CopyComplete
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\obj\Debug\netcoreapp2.2\Cw.Ultracem.UnitTest.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\obj\Debug\netcoreapp2.2\Cw.Ultracem.UnitTest.pdb
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\obj\Debug\netcoreapp2.2\Cw.Ultracem.UnitTest.genruntimeconfig.cache
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\bin\Debug\netcoreapp2.2\Cw.Ultracem.UnitTest.deps.json
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\bin\Debug\netcoreapp2.2\Cw.Ultracem.UnitTest.runtimeconfig.json
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\bin\Debug\netcoreapp2.2\Cw.Ultracem.UnitTest.runtimeconfig.dev.json
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\bin\Debug\netcoreapp2.2\Cw.Ultracem.UnitTest.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\bin\Debug\netcoreapp2.2\Cw.Ultracem.UnitTest.pdb
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\bin\Debug\netcoreapp2.2\Cw.Ultracem.BL.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\bin\Debug\netcoreapp2.2\Cw.Ultracem.ConsumoERP.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\bin\Debug\netcoreapp2.2\Cw.Ultracem.Data.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\bin\Debug\netcoreapp2.2\Cw.Ultracem.DTO.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\bin\Debug\netcoreapp2.2\EntityFramework.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\bin\Debug\netcoreapp2.2\Cw.Ultracem.BL.pdb
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\bin\Debug\netcoreapp2.2\Cw.Ultracem.DTO.pdb
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\bin\Debug\netcoreapp2.2\Cw.Ultracem.ConsumoERP.pdb
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\bin\Debug\netcoreapp2.2\Cw.Ultracem.ConsumoERP.dll.config
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\bin\Debug\netcoreapp2.2\Cw.Ultracem.Data.pdb
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\bin\Debug\netcoreapp2.2\Cw.Ultracem.Data.dll.config
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\bin\Debug\netcoreapp2.2\EntityFramework.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\obj\Debug\netcoreapp2.2\Cw.Ultracem.UnitTest.csprojAssemblyReference.cache
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\obj\Debug\netcoreapp2.2\Cw.Ultracem.UnitTest.AssemblyInfoInputs.cache
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\obj\Debug\netcoreapp2.2\Cw.Ultracem.UnitTest.AssemblyInfo.cs
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\obj\Debug\netcoreapp2.2\Cw.Ultracem.UnitTest.csproj.CoreCompileInputs.cache
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\obj\Debug\netcoreapp2.2\Cw.Ultracem.UnitTest.csproj.CopyComplete
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\obj\Debug\netcoreapp2.2\Cw.Ultracem.UnitTest.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\obj\Debug\netcoreapp2.2\Cw.Ultracem.UnitTest.pdb
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\obj\Debug\netcoreapp2.2\Cw.Ultracem.UnitTest.genruntimeconfig.cache
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\bin\Debug\netcoreapp2.2\Cw.Ultracem.UnitTest.deps.json
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\bin\Debug\netcoreapp2.2\Cw.Ultracem.UnitTest.runtimeconfig.json
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\bin\Debug\netcoreapp2.2\Cw.Ultracem.UnitTest.runtimeconfig.dev.json
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\bin\Debug\netcoreapp2.2\Cw.Ultracem.UnitTest.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\bin\Debug\netcoreapp2.2\Cw.Ultracem.UnitTest.pdb
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\bin\Debug\netcoreapp2.2\Cw.Ultracem.BL.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\bin\Debug\netcoreapp2.2\Cw.Ultracem.ConsumoERP.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\bin\Debug\netcoreapp2.2\Cw.Ultracem.Data.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\bin\Debug\netcoreapp2.2\Cw.Ultracem.DTO.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\bin\Debug\netcoreapp2.2\EntityFramework.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\bin\Debug\netcoreapp2.2\Cw.Ultracem.BL.pdb
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\bin\Debug\netcoreapp2.2\Cw.Ultracem.DTO.pdb
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\bin\Debug\netcoreapp2.2\Cw.Ultracem.ConsumoERP.pdb
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\bin\Debug\netcoreapp2.2\Cw.Ultracem.ConsumoERP.dll.config
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\bin\Debug\netcoreapp2.2\Cw.Ultracem.Data.pdb
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\bin\Debug\netcoreapp2.2\Cw.Ultracem.Data.dll.config
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\bin\Debug\netcoreapp2.2\EntityFramework.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\obj\Debug\netcoreapp2.2\Cw.Ultracem.UnitTest.csprojAssemblyReference.cache
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\obj\Debug\netcoreapp2.2\Cw.Ultracem.UnitTest.AssemblyInfoInputs.cache
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\obj\Debug\netcoreapp2.2\Cw.Ultracem.UnitTest.AssemblyInfo.cs
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\obj\Debug\netcoreapp2.2\Cw.Ultracem.UnitTest.csproj.CoreCompileInputs.cache
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\obj\Debug\netcoreapp2.2\Cw.Ultracem.UnitTest.csproj.CopyComplete
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\obj\Debug\netcoreapp2.2\Cw.Ultracem.UnitTest.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\obj\Debug\netcoreapp2.2\Cw.Ultracem.UnitTest.pdb
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v3\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\obj\Debug\netcoreapp2.2\Cw.Ultracem.UnitTest.genruntimeconfig.cache
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\bin\Debug\netcoreapp2.2\Cw.Ultracem.UnitTest.deps.json
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\bin\Debug\netcoreapp2.2\Cw.Ultracem.UnitTest.runtimeconfig.json
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\bin\Debug\netcoreapp2.2\Cw.Ultracem.UnitTest.runtimeconfig.dev.json
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\bin\Debug\netcoreapp2.2\Cw.Ultracem.UnitTest.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\bin\Debug\netcoreapp2.2\Cw.Ultracem.UnitTest.pdb
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\bin\Debug\netcoreapp2.2\Cw.Ultracem.BL.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\bin\Debug\netcoreapp2.2\Cw.Ultracem.ConsumoERP.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\bin\Debug\netcoreapp2.2\Cw.Ultracem.Data.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\bin\Debug\netcoreapp2.2\Cw.Ultracem.DTO.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\bin\Debug\netcoreapp2.2\EntityFramework.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\bin\Debug\netcoreapp2.2\Cw.Ultracem.BL.pdb
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\bin\Debug\netcoreapp2.2\Cw.Ultracem.DTO.pdb
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\bin\Debug\netcoreapp2.2\Cw.Ultracem.ConsumoERP.pdb
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\bin\Debug\netcoreapp2.2\Cw.Ultracem.ConsumoERP.dll.config
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\bin\Debug\netcoreapp2.2\Cw.Ultracem.Data.pdb
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\bin\Debug\netcoreapp2.2\Cw.Ultracem.Data.dll.config
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\bin\Debug\netcoreapp2.2\EntityFramework.xml
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\obj\Debug\netcoreapp2.2\Cw.Ultracem.UnitTest.csprojAssemblyReference.cache
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\obj\Debug\netcoreapp2.2\Cw.Ultracem.UnitTest.AssemblyInfoInputs.cache
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\obj\Debug\netcoreapp2.2\Cw.Ultracem.UnitTest.AssemblyInfo.cs
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\obj\Debug\netcoreapp2.2\Cw.Ultracem.UnitTest.csproj.CoreCompileInputs.cache
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\obj\Debug\netcoreapp2.2\Cw.Ultracem.UnitTest.csproj.CopyComplete
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\obj\Debug\netcoreapp2.2\Cw.Ultracem.UnitTest.dll
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\obj\Debug\netcoreapp2.2\Cw.Ultracem.UnitTest.pdb
+E:\sofinsas\sofinsas_pcMaurennt\proyecto_banco_occidente\versiones_banco_occidente\v5\Cw.Ultracem.Service\Cw.Ultracem.UnitTest\obj\Debug\netcoreapp2.2\Cw.Ultracem.UnitTest.genruntimeconfig.cache

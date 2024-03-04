@@ -1,0 +1,14 @@
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.ConsumoERP\bin\Debug\Cw.Ultracem.ConsumoERP.dll.config
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.ConsumoERP\bin\Debug\Cw.Ultracem.ConsumoERP.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.ConsumoERP\bin\Debug\Cw.Ultracem.ConsumoERP.pdb
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.ConsumoERP\obj\Debug\Cw.Ultracem.ConsumoERP.csprojAssemblyReference.cache
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.ConsumoERP\obj\Debug\Cw.Ultracem.ConsumoERP.csproj.CoreCompileInputs.cache
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.ConsumoERP\obj\Debug\Cw.Ultracem.ConsumoERP.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.ConsumoERP\obj\Debug\Cw.Ultracem.ConsumoERP.pdb
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.ConsumoERP\bin\Debug\Cw.Ultracem.ConsumoERP.dll.config
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.ConsumoERP\bin\Debug\Cw.Ultracem.ConsumoERP.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.ConsumoERP\bin\Debug\Cw.Ultracem.ConsumoERP.pdb
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.ConsumoERP\obj\Debug\Cw.Ultracem.ConsumoERP.csprojAssemblyReference.cache
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.ConsumoERP\obj\Debug\Cw.Ultracem.ConsumoERP.csproj.CoreCompileInputs.cache
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.ConsumoERP\obj\Debug\Cw.Ultracem.ConsumoERP.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.ConsumoERP\obj\Debug\Cw.Ultracem.ConsumoERP.pdb

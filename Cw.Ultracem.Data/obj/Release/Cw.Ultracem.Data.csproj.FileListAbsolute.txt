@@ -1,0 +1,12 @@
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Data\bin\Release\Cw.Ultracem.Data.dll.config
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Data\bin\Release\Cw.Ultracem.Data.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Data\bin\Release\Cw.Ultracem.Data.pdb
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Data\bin\Release\EntityFramework.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Data\bin\Release\EntityFramework.SqlServer.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Data\bin\Release\EntityFramework.xml
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Data\bin\Release\EntityFramework.SqlServer.xml
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Data\obj\Release\Cw.Ultracem.Data.csprojAssemblyReference.cache
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Data\obj\Release\Cw.Ultracem.Data.csproj.CoreCompileInputs.cache
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Data\obj\Release\Cw.Ultracem.Data.csproj.CopyComplete
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Data\obj\Release\Cw.Ultracem.Data.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Data\obj\Release\Cw.Ultracem.Data.pdb

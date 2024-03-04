@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="logConswareModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="BancosWS">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Decimal" Precision="18" Scale="0" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="NombreBanco" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Estado" Type="Binary" MaxLength="1" FixedLength="false" Nullable="false" />
+    <NavigationProperty Name="LogBancoSiesa" Relationship="Self.FK_LogBancoSiesa_BancosWS" FromRole="BancosWS" ToRole="LogBancoSiesa" />
+  </EntityType>
+  <EntityType Name="LogBancoSiesa">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="TipoConsulta" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="XmlBanco" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="XmlSiesa" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Resultado" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="FechaConsumo" Type="DateTime" Precision="0" />
+    <Property Name="NumeroAutorizacion" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Referencia1" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Referencia2" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="TotalTransaccion" Type="Decimal" Precision="18" Scale="0" />
+    <Property Name="IdBanco" Type="Decimal" Precision="18" Scale="0" />
+    <NavigationProperty Name="BancosWS" Relationship="Self.FK_LogBancoSiesa_BancosWS" FromRole="LogBancoSiesa" ToRole="BancosWS" />
+  </EntityType>
+  <Association Name="FK_LogBancoSiesa_BancosWS">
+    <End Role="BancosWS" Type="Self.BancosWS" Multiplicity="0..1" />
+    <End Role="LogBancoSiesa" Type="Self.LogBancoSiesa" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="BancosWS">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="LogBancoSiesa">
+        <PropertyRef Name="IdBanco" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="UltracemDB" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="BancosWS" EntityType="Self.BancosWS" />
+    <EntitySet Name="LogBancoSiesa" EntityType="Self.LogBancoSiesa" />
+    <AssociationSet Name="FK_LogBancoSiesa_BancosWS" Association="Self.FK_LogBancoSiesa_BancosWS">
+      <End Role="BancosWS" EntitySet="BancosWS" />
+      <End Role="LogBancoSiesa" EntitySet="LogBancoSiesa" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

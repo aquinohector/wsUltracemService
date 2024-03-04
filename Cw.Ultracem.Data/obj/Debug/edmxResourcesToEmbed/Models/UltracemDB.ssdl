@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="logConswareModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="BancosWS">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="numeric" Precision="18" Scale="0" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="NombreBanco" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Estado" Type="varbinary" MaxLength="1" Nullable="false" />
+  </EntityType>
+  <EntityType Name="LogBancoSiesa">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="bigint" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="TipoConsulta" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="XmlBanco" Type="xml" Nullable="false" />
+    <Property Name="XmlSiesa" Type="xml" />
+    <Property Name="Resultado" Type="varchar" MaxLength="500" />
+    <Property Name="FechaConsumo" Type="date" />
+    <Property Name="NumeroAutorizacion" Type="varchar" MaxLength="50" />
+    <Property Name="Referencia1" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Referencia2" Type="varchar" MaxLength="50" />
+    <Property Name="TotalTransaccion" Type="numeric" Precision="18" Scale="0" />
+    <Property Name="IdBanco" Type="numeric" Precision="18" Scale="0" />
+  </EntityType>
+  <Association Name="FK_LogBancoSiesa_BancosWS">
+    <End Role="BancosWS" Type="Self.BancosWS" Multiplicity="0..1" />
+    <End Role="LogBancoSiesa" Type="Self.LogBancoSiesa" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="BancosWS">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="LogBancoSiesa">
+        <PropertyRef Name="IdBanco" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="logConswareModelStoreContainer">
+    <EntitySet Name="BancosWS" EntityType="Self.BancosWS" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="LogBancoSiesa" EntityType="Self.LogBancoSiesa" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_LogBancoSiesa_BancosWS" Association="Self.FK_LogBancoSiesa_BancosWS">
+      <End Role="BancosWS" EntitySet="BancosWS" />
+      <End Role="LogBancoSiesa" EntitySet="LogBancoSiesa" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

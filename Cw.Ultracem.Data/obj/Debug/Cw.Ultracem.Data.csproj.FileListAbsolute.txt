@@ -1,0 +1,24 @@
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Data\bin\Debug\Cw.Ultracem.Data.dll.config
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Data\bin\Debug\Cw.Ultracem.Data.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Data\bin\Debug\Cw.Ultracem.Data.pdb
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Data\bin\Debug\EntityFramework.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Data\bin\Debug\EntityFramework.xml
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Data\obj\Debug\Cw.Ultracem.Data.csprojAssemblyReference.cache
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Data\obj\Debug\Cw.Ultracem.Data.csproj.CoreCompileInputs.cache
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Data\obj\Debug\Cw.Ultracem.Data.csproj.CopyComplete
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Data\obj\Debug\Cw.Ultracem.Data.dll
+D:\Alberto\Ultracem\Desarrollo\Cw.Ultracem.Service\Cw.Ultracem.Data\obj\Debug\Cw.Ultracem.Data.pdb
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Data\bin\Debug\Cw.Ultracem.Data.dll.config
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Data\bin\Debug\Cw.Ultracem.Data.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Data\bin\Debug\Cw.Ultracem.Data.pdb
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Data\bin\Debug\EntityFramework.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Data\bin\Debug\EntityFramework.xml
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Data\obj\Debug\Cw.Ultracem.Data.csprojAssemblyReference.cache
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Data\obj\Debug\Cw.Ultracem.Data.csproj.CoreCompileInputs.cache
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Data\obj\Debug\Cw.Ultracem.Data.csproj.CopyComplete
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Data\obj\Debug\Cw.Ultracem.Data.dll
+C:\Users\aiglesias\Desktop\Servicio Banco Occidente\Cw.Ultracem.Service\Cw.Ultracem.Data\obj\Debug\Cw.Ultracem.Data.pdb
